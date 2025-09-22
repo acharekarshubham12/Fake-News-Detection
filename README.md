@@ -1,1 +1,0 @@
--e "## Model Files\nThe DistilBERT model files are hosted on Google Drive due to GitHub's file size limits:\n- [pytorch_model.bin](<Google Drive link>)\n- [model.safetensors](<Google Drive link>)\n\n**Instructions**:\n1. Download the files from the links above.\n2. Place them in the \`src/models/distilbert_model/\` directory." 
