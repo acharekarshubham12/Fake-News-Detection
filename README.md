@@ -114,5 +114,12 @@ with open("saved_models/content_model.pkl", "rb") as f:
 ## ROC Curve Comparision
 <img width="1022" height="691" alt="Roc Curve Comparison" src="https://github.com/user-attachments/assets/36bee5e9-dff6-4865-a5c7-f9a4f7cdf53e" />
 
-## LICENSE
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contributing
+Contributions are welcome! Please fork the repository and submit pull requests with detailed descriptions of changes. Ensure all tests pass and maintain the existing code style.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For questions or support, please contact [acharekarshubham12@gmail.com](mailto:acharekarshubham12@gmail.com).
+
