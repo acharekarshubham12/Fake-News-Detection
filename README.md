@@ -23,7 +23,10 @@ The system classifies news articles as **Fake** or **True** by leveraging both *
 - Balanced dataset sampled for efficiency.
 
 ---
+## Flow Diagram
+<img width="1536" height="1024" alt="ChatGPT Image Sep 24, 2025, 07_49_59 PM" src="https://github.com/user-attachments/assets/321a834a-ee4f-45a3-9a28-bb57f0f8be07" />
 
+---
 ## 🧠 Models Implemented
 
 ### **Model_1 – Logistic Regression with TF-IDF**
